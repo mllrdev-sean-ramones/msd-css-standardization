@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.30.3",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "mllrdev-itcss",
+  "devDependencies": {
+    "@iconify-json/et": "^1.1.1",
+    "playwright-chromium": "^1.21.0"
+  },
+  "description": "To start the slide show:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
