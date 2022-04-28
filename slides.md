@@ -871,7 +871,7 @@ layout: statement
  <img class="m-auto" style="height: 300px" src="https://www.bram.us/wordpress/wp-content/uploads/2017/01/css-is-awesome.jpg"/>
 
 <br>
-Good Luck and have fun!<img style="height:20px;display:inline-block;" src="/public/css-memes/kekw.jpg" />
+Good Luck and have fun! <img style="height:20px;display:inline-block;" src="/public/css-memes/kekw.jpg" />
 ---
 layout: statement
 ---
